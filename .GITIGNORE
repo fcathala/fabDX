@@ -1,0 +1,14 @@
+ines (9 sloc)  259 Bytes
+  
+## Ignore Force.Com temporary files, build results.
+##
+## Get latest from https://github.com/github/gitignore/blob/master/ForceDotCom.gitignore
+
+# User-specific files
+
+.project
+.settings
+salesforce.schema
+Referenced Packages
+
+# File in continuous improvement

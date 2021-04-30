@@ -4,10 +4,10 @@ fabPack in DX mode...
 ## Install DX
 * Install [NodeJS](https://nodejs.org/en/download/) first
 
-'''
+```Batch
 node --version
 v14.16.1
-'''
+```
 
 * Install [the CLI with npm](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 * [Verify Your Installation](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)

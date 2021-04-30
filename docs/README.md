@@ -27,6 +27,7 @@ sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 
 ## Resources
 * [Set Up Your Salesforce DX Environment](https://blogs.perficient.com/2020/12/09/set-up-your-salesforce-dx-environment/)
+* [How to install Visual Studio Code, Salesforce CLI/SFDX, and Connect to Salesforce Org](https://www.youtube.com/watch?v=BT4IRLrsBlg) on YouTube!
 * Display a generic help page
 
 ```Batch

@@ -27,7 +27,7 @@ sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 
 ## Resources
 * [Set Up Your Salesforce DX Environment](https://blogs.perficient.com/2020/12/09/set-up-your-salesforce-dx-environment/)
-* Display a generic help
+* Display a generic help page
 
 ```Batch
 >> sfdx --help

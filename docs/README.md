@@ -2,7 +2,7 @@
 fabPack in DX mode...
 
 ## Install DX
-### Recomended method
+### Recommended method
 * Install [NodeJS](https://nodejs.org/en/download/) first (you can also read this helpful [post](https://treehouse.github.io/installation-guides/windows/node-windows.html) on the subject)
 * Install [the CLI with npm](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 

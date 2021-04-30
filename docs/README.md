@@ -29,7 +29,7 @@ sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 * [Set Up Your Salesforce DX Environment](https://blogs.perficient.com/2020/12/09/set-up-your-salesforce-dx-environment/)
 
 ## References
-* It all starts with [Salesforce's tooling page](https://developer.salesforce.com/tools) for developers (and the [CLI page](https://developer.salesforce.com/tools/sfdxcli) in particular of course).
+* It all starts with [Salesforce's tooling page](https://developer.salesforce.com/tools) for developers (and the [CLI page](https://developer.salesforce.com/tools/sfdxcli) in particular).
 * Read the Salesforce CLI [Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm) is a good start for all DX projects.
 * Reading the [NPM Guide](https://docs.npmjs.com/about-npm) is also time well spent.
 * Troubleshoot an installation Googling your way around or looking in [the usual tech forums](https://salesforce.stackexchange.com/questions/163795/sfdx-is-not-recognized-as-an-internal-or-external-command).

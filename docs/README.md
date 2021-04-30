@@ -27,6 +27,33 @@ sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 
 ## Resources
 * [Set Up Your Salesforce DX Environment](https://blogs.perficient.com/2020/12/09/set-up-your-salesforce-dx-environment/)
+* Display a generic help
+
+```Batch
+sfdx --help
+Salesforce CLI
+
+VERSION
+  sfdx-cli/7.98.0 win32-x64 node-v14.16.1
+
+USAGE
+  $ sfdx [COMMAND]
+
+TOPICS
+  alias    manage username aliases
+  auth     authorize an org for use with the Salesforce CLI
+  config   configure the Salesforce CLI
+  force    tools for the Salesforce developer
+  plugins  add/remove/create CLI plug-ins
+
+COMMANDS
+  autocomplete  display autocomplete installation instructions
+  commands      list all the commands
+  help          display help for sfdx
+  plugins       list installed plugins
+  update        update the sfdx CLI
+  which         show which plugin a command is in
+```
 
 ## References
 * It all starts with [Salesforce's tooling page](https://developer.salesforce.com/tools) for developers (and the [CLI page](https://developer.salesforce.com/tools/sfdxcli) in particular).

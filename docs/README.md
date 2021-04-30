@@ -7,18 +7,18 @@ fabPack in DX mode...
 * Install [the CLI with npm](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 
 ```Batch
-npm install sfdx-cli --global
+>> npm install sfdx-cli --global
 ```
 
 * [Verify Your Installation](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 
 ```Batch
-node --version
+>> node --version
 v14.16.1
 ```
 
 ```Batch
-sfdx --version
+>> sfdx --version
 sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 ```
 
@@ -30,7 +30,7 @@ sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 * Display a generic help
 
 ```Batch
-sfdx --help
+>> sfdx --help
 Salesforce CLI
 
 VERSION

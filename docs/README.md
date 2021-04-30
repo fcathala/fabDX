@@ -4,7 +4,7 @@ fabPack in DX mode...
 ## Install DX
 * Install [NodeJS](https://nodejs.org/en/download/) first
 
-'''batch
+'''
 node --version
 v14.16.1
 '''

@@ -2,7 +2,8 @@
 fabPack in DX mode...
 
 ## Install DX
-* Install [NodeJS](https://nodejs.org/en/download/) first
+### Recomended method
+* Install [NodeJS](https://nodejs.org/en/download/) first (you can also read this helpful [post](https://treehouse.github.io/installation-guides/windows/node-windows.html) on the subject)
 * Install [the CLI with npm](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 
 ```Batch
@@ -21,6 +22,11 @@ sfdx --version
 sfdx-cli/7.98.0 win32-x64 node-v14.16.1
 ```
 
+### Homebrew (Mac only)
+* Install [SFDX](https://formulae.brew.sh/cask/sfdx)
+
+## Resources
+* [Set Up Your Salesforce DX Environment](https://blogs.perficient.com/2020/12/09/set-up-your-salesforce-dx-environment/)
 
 ## References
 * It all starts with [Salesforce's tooling page](https://developer.salesforce.com/tools) for developers (and the [CLI page](https://developer.salesforce.com/tools/sfdxcli) in particular of course).

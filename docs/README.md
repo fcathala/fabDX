@@ -1,5 +1,5 @@
 # fabDX
-fabPack in DX mode...
+fabAnt ported to SFDX...
 
 ## Install DX
 ### Recommended method
